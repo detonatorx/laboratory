@@ -1,4 +1,4 @@
 const { runAllTests } = require('./tests');
 
-// Run all tests
+// Запускаем все тесты
 runAllTests();

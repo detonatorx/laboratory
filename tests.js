@@ -167,9 +167,6 @@ function runAllTests() {
   testEachNumberThreeTimes();
 }
 
-// Запускаем все тесты
-runAllTests();
-
 module.exports = {
   runAllTests,
   testPrimeNumbers,
