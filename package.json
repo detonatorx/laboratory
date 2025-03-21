@@ -1,0 +1,27 @@
+{
+  "name": "number-array-serializer",
+  "version": "1.0.0",
+  "description": "Библиотека для компактной сериализации массивов целых чисел",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node tests.js"
+  },
+  "keywords": [
+    "serialization",
+    "compression",
+    "array",
+    "numbers"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "browser": {
+    "./main.js": "./main.js",
+    "./utils.js": "./utils.js"
+  }
+}
